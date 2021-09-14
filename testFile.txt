@@ -1,5 +1,9 @@
 Test file!
 
-Can I pull this?
+Can I *clone* this?
+Yes, I cloned it to documents. Now I added this line in notepad++
+
+Now Frank adds a line
 
 John adds a line without Frank and Tyler's changes
+
